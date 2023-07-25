@@ -1,0 +1,1 @@
+// We input a sentence and if the length of the words is greater than 5 strings, we return the reversed version of the word
