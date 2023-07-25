@@ -4,3 +4,17 @@
 //We are going to return the input sentences with  their words that have more than five characters reversed and words with less than 5 characters as they were
 // We split the sentence into individual array elements, we loop through the array and for elements of length greater/equal to 5 are  split, reversed then joined and store it in a new variable
 // We then return the new variable
+
+function spinWords(sentence){
+    const sentenceArray = sentence.split(' ');
+    let result = '';
+    sentenceArray.map((str, i) => {
+      if (str.length >= 5){
+        sentenceArray[i] = str.split('').reverse().join('');
+      } else {
+        sentenceArray[i] = str;
+      }
+    result = sentenceArray.join(' ');
+    });
+  return result;
+  }
