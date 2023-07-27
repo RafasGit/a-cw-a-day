@@ -11,3 +11,6 @@ function repeatStr (n, s) {
     }
     return conc;
   }
+
+ repeatStr(3, 'h');
+ repeatStr(2, 'jon')  
