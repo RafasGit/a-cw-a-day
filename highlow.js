@@ -4,3 +4,8 @@
 // For an input of '5 4 6 2 1' we return '5 1'
 // We initialize our function with our parameter we then split the string elements into individual array elements.
 //This allows us to use native array math.max and math.min  along with array destructuring to template string our largest and smallest number
+
+function highAndLow(numbers){
+    numbers = numbers.split(' ');
+    return `${Math.max(...numbers)} ${Math.min(...numbers)}`;
+  }
