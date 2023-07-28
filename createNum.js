@@ -11,3 +11,6 @@ function createPhoneNumber(numbers){
         + '-'
         + numbers.substring(6);
   }  
+
+  //createPhoneNumber(0111799390);
+ // createPhoneNumber(0071145689);
