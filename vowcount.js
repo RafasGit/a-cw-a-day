@@ -10,3 +10,7 @@ function getCount(str) {
       return vowels.includes(letter)? true : false;
     }).length;
   }
+  console.log(getCount('achieve'))
+  console.log(getCount('mastery'))
+  console.log(getCount('celebrate'))
+  
