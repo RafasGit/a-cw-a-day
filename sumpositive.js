@@ -1,0 +1,1 @@
+// We accept an input of an array of numbers and return the sum of only positive numbers
