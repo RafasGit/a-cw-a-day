@@ -7,4 +7,4 @@
    const boolToWord = bool => bool === true ? 'Yes' : 'No'
 
    boolToWord(true) // 'Yes'
-   
+   boolToWord(false) // 'No'
