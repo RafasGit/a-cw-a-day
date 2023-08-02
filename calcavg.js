@@ -22,3 +22,7 @@
       }
      
       }
+
+   findAverage([5, 4, 3, 2])   
+   findAverage()   
+   findAverage()   
