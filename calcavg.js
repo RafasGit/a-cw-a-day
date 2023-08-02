@@ -24,5 +24,5 @@
       }
 
    findAverage([5, 4, 3, 2])   
-   findAverage()   
+   findAverage([2, 4, 3, 1, 5])   
    findAverage()   
