@@ -4,3 +4,4 @@
  // We are returning the average of the array of numbers and 0 for empty arrays
  // [5, 4, 3, 2] => 3.5 [2, 4, 3, 1. 5] => 3, [] => 0
  // We accept the input of array of numbers, confirm the array is not empty, if epty return zero, else loop through the array and add each num to a new variable
+ // Divide the value of the added numbers by length of input array
