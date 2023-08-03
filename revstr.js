@@ -8,4 +8,4 @@ const solution = str => str.split('').reverse().join('');
 
 console.log(solution('world')) // 'dlrow'
 console.log(solution('dog')) // 'god'
-console.log(solution('code')) // 'edoc'
+console.log(solution('code')) //  'edoc'
