@@ -5,3 +5,5 @@
 // We take in the string input, we split it into array elements, allowing us to use the native array method reverse and finally join the elements into our reversed string and return the result
 
 const solution = str => str.split('').reverse().join('');
+
+console.log(solution('world')) // 'dlrow'
