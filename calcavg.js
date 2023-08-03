@@ -22,6 +22,10 @@
       }
      
       }
+      
+      function findAverage(arr) {
+        return arr.length > 0? arr.reduce((a, b) => a + b) / arr.length : 0;
+    }
 
    findAverage([5, 4, 3, 2])   // => 3.5
    findAverage([2, 4, 3, 1, 5])   // => 3
