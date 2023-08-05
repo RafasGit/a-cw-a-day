@@ -10,4 +10,4 @@
 
 numberToString(333) //-> '333'
 numberToString(1212) //-> '1212'
-numberToString(454) //-> '454'
+numberToString(454) // -> '454'
