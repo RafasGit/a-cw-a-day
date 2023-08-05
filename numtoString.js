@@ -7,3 +7,5 @@
  function numberToString(num) {
   return num.toString()
 }
+
+numberToString(333) //-> '333'
