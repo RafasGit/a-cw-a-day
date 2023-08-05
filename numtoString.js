@@ -1,0 +1,1 @@
+// We accept the input of an integer and return it converted into a string
