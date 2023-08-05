@@ -9,3 +9,4 @@
 }
 
 numberToString(333) //-> '333'
+numberToString(1212) //-> '1212'
