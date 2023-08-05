@@ -2,3 +2,4 @@
 // We take in the parameters of integer datatype, no strings, no empty parameters
 // We return an output of the input numbers converted into string format
 //  Test cases 333 -> '333', 1212 -> '1212' 454 -> '454'
+// We accept the integer input and use native javascript toString() method converting it to string format
