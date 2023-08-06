@@ -1,0 +1,1 @@
+// We accept two inputs, one for the number of students and one for the number of pages per student required and calculate the total pages used
