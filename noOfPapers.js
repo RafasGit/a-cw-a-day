@@ -11,4 +11,4 @@ function paperwork(n, m) {
  
   paperwork(6, 4) // -> 24
   paperwork(7, 0) // -> 0
-  
+  paperwork(-5, 6) // -> 0
