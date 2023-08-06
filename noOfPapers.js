@@ -3,3 +3,10 @@
 // We return the value of number of total copies required and if no copies required, we return 0
 //  Our testcases include; n = 6, m = 4 : 24, n = 7, m = 0 : 0, n = 5, m = 3 : 15
 // We initialize our function and declare our two parameters; n(no. of students) and m(no. of pages per student), check if both values are greater than 0 and return product of n and m;
+
+
+function paperwork(n, m) {
+    return n > 0 && m > 0 ? n * m : 0
+  }
+ 
+  
