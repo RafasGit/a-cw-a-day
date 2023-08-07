@@ -1,0 +1,1 @@
+// We are to input an array of numbers and return the smallest number 
