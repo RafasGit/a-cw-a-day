@@ -5,3 +5,23 @@
 // We declare our points variable, split the results using ':' as our criteria, we set our conditional to check if our result is greater than the opponents and award our team 3 points
 // If opponents score is greater we add add 0 points to our variable, and if scores are similar, we add 1 point to our tally
 // We then return the total of our points
+function points(games) {
+    let points = 0;
+   
+    for(let i = 0; i < games.length; i++){
+        let scores = games[i].split(":")
+   
+      if(scores[0] > scores[1]){
+          points += 3;
+    }
+       else if(scores[0] === scores[1]){
+         points += 1;
+         }
+       else{
+         points === points
+       }
+    }
+     return points;
+    }
+  
+  
