@@ -10,3 +10,7 @@ class SmallestIntegerFinder {
       return args[0];
     }
   }
+ 
+ SmallestIntegerFinder([]) 
+ SmallestIntegerFinder([]) 
+ SmallestIntegerFinder([]) 
