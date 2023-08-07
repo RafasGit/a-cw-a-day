@@ -24,4 +24,6 @@ function points(games) {
      return points;
     }
   
-  
+  points([])
+  points([])
+  points([])
