@@ -3,3 +3,10 @@
 // We return the smallest integer in our array
 // Test cases [1, 32, 43, 4] => 1, [2, 4, 5, 6] => 2, [4, 6, 7, 45] => 4
 // We initialize our function and using our array if numbers parameter, we sort our array in ascending order and return the first element of our array
+
+class SmallestIntegerFinder {
+    findSmallestInt(args) {
+      args.sort((a,b)=> a - b)
+      return args[0];
+    }
+  }
