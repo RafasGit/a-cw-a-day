@@ -11,6 +11,6 @@ class SmallestIntegerFinder {
     }
   }
  
- SmallestIntegerFinder([]) 
- SmallestIntegerFinder([]) 
+ SmallestIntegerFinder([1, 32, 43, 4]) // 1
+ SmallestIntegerFinder() 
  SmallestIntegerFinder([]) 
