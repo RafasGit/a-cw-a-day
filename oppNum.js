@@ -10,3 +10,4 @@ function opposite(number) {
 opposite(1) // -1
 opposite(-34) // 34
 opposite(50) // -50
+
