@@ -9,4 +9,5 @@ function litres(time) {
   }
   
   console.log(litres(3)) // 1
-  
+  console.log(litres(2.2)) // 1
+ 
