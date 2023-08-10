@@ -1,0 +1,1 @@
+// We create a function to multiply the number 5 raised to the power of number of digits of given number by the given number
