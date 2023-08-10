@@ -7,3 +7,7 @@
 function multiply(num){
     return num * Math.pow(5, Math.abs(num).toString().length);
    }
+  
+   console.log(multiply())
+   console.log(multiply())
+   console.log(multiply())
