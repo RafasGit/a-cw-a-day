@@ -9,5 +9,5 @@ function multiply(num){
    }
   
    console.log(multiply(3))
-   console.log(multiply())
+   console.log(multiply(10))
    console.log(multiply())
