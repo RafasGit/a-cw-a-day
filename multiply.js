@@ -8,6 +8,6 @@ function multiply(num){
     return num * Math.pow(5, Math.abs(num).toString().length);
    }
   
-   console.log(multiply(3))
-   console.log(multiply(10))
-   console.log(multiply(-2))
+   console.log(multiply(3)) // 15
+   console.log(multiply(10)) // 250
+   console.log(multiply(-2)) // -10
