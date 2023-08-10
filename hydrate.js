@@ -3,3 +3,7 @@
 // We are going to return the total number of litres our cyclist will need rounded to the smallest value
 // A few test cases include; time = 3; --> 1.5, time = 2.2; --> 1, time = 0; --> 0
 // We accept the given input, multiply the value by 0.5 and use math method floor which rounds our product to the smallest value and return the result
+
+function litres(time) {
+    return Math.floor(0.5 * time);
+  }
