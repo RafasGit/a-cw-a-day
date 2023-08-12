@@ -14,3 +14,5 @@ function unusualFive() {
   unusualFive(color)
   unusualFive(emacs)
   unusualFive(tests)
+ 
+  // We also return string lengths
