@@ -15,4 +15,4 @@ function unusualFive() {
   unusualFive(emacs)
   unusualFive(tests)
  
-  // We also return string lengths
+  // We also return string lengths, indexOf, 
