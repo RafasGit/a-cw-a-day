@@ -1,0 +1,1 @@
+// We are to return 5 without using any integer or any mathematical operator
