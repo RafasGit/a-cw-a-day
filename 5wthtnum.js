@@ -10,3 +10,5 @@ function unusualFive() {
      return arr.length
     
   }
+
+  unusualFive(color)
