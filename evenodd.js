@@ -6,6 +6,6 @@
 
  const evenOrOdd = num => num % 2 === 0 ? 'Even' : 'Odd'
 
- evenOrOdd(5) // Odd
- evenOrOdd(6) // Even
- 
+ evenOrOdd(5) // 'Odd'
+ evenOrOdd(6) // 'Even'
+ evenOrOdd(-1) // 'Odd'
