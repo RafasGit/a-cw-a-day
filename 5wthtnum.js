@@ -12,3 +12,5 @@ function unusualFive() {
   }
 
   unusualFive(color)
+  unusualFive()
+  unusualFive(tests)
