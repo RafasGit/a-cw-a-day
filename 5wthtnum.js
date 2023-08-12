@@ -12,5 +12,5 @@ function unusualFive() {
   }
 
   unusualFive(color)
-  unusualFive()
+  unusualFive(emacs)
   unusualFive(tests)
