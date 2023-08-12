@@ -5,3 +5,6 @@
 // We accept the number, we declare a function with a conditional to check if input is divisible by 0 to return 'Even', else return 'False'
 
  const evenOrOdd = num => num % 2 === 0 ? 'Even' : 'Odd'
+
+ evenOrOdd(5) // Odd
+ 
