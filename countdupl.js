@@ -16,3 +16,7 @@ function duplicateCount(text){
   //     return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;
   //   }).length;
   // }
+
+  console.log(duplicateCount("abcde"))
+  console.log(duplicateCount("aabbcde"))
+  console.log(duplicateCount("abbcde"))
