@@ -17,6 +17,6 @@ function duplicateCount(text){
   //   }).length;
   // }
 
-  console.log(duplicateCount("abcde"))
-  console.log(duplicateCount("aabbcde"))
+  console.log(duplicateCount("abcde")) // 0
+  console.log(duplicateCount("aabbcde")) // 2
   console.log(duplicateCount("abbcde"))
