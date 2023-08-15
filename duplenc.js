@@ -14,3 +14,5 @@ function duplicateEncode(word){
   })
   .join('')
 }
+
+console.log(duplicateEncode('tommmy')) // --> '(())('
