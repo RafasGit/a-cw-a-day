@@ -17,3 +17,4 @@ function duplicateEncode(word){
 
 console.log(duplicateEncode('tommmy')) // --> '(())('
 console.log(duplicateEncode('Musa'))  // --> '(((('
+console.log(duplicateEncode('exceed')) // --> ')(())('
