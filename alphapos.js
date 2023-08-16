@@ -4,4 +4,4 @@
 // Give examples/tests
 // Give pseudo 
 // Give solution code
-// Use test cases / console them
+// Use test cases / log on console
