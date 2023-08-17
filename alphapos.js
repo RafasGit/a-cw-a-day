@@ -6,4 +6,20 @@
 // Give pseudo; we accept the input string, declare a new array, in which we trim, convert string to lowercase, split it into new array elements loop through each element 
 // Using its charcode, we check if it lies within the ascii of 97 & 122 indicating it's an alphabet and return it's position
 // Give solution code
+function alphabetPosition(text) {
+  
+    let newAlpha = []
+     text
+    .trim() 
+    .toLowerCase()
+    .split('')
+    .forEach(x => {
+       const ascii = x.charCodeAt();
+      if (ascii >= 97 && ascii <= 122){
+        newAlpha.push(ascii - 96);
+      };
+     });
+    return newAlpha.join(' ');
+  }
+  
 // Use test cases / log on console
