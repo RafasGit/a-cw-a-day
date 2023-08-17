@@ -21,5 +21,6 @@ function alphabetPosition(text) {
      });
     return newAlpha.join(' ');
   }
-  
+
 // Use test cases / log on console
+console.log(alphabetPosition('Abcde')) //  '1 2 3 4 5'
