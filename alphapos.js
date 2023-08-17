@@ -3,6 +3,7 @@
 //Give expected return if any; we return the alphabet positions of the letters
 // Give examples/tests;  alphabetPosition('Abcde') --> '1 2 3 4 5'; alphabetPosition('fghij') --> '6 7 8 9 10'; alphabetPosition('klmno') --> '11 12 13 14 15'
 
-// Give pseudo 
+// Give pseudo; we accept the input string, declare a new array, in which we trim, convert string to lowercase, split it into new array elements loop through each element 
+// Using its charcode, we check if it lies within the ascii of 97 & 122 indicating it's an alphabet and return it's position
 // Give solution code
 // Use test cases / log on console
