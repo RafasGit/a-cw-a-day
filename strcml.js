@@ -16,3 +16,6 @@ function toCamelCase(str){
     }).join('');
   }
   
+  console.log(toCamelCase())
+  console.log(toCamelCase())
+  console.log(toCamelCase())
