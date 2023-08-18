@@ -16,6 +16,6 @@ function toCamelCase(str){
     }).join('');
   }
   
-  console.log(toCamelCase())
+  console.log(toCamelCase('my-name-is'))
   console.log(toCamelCase())
   console.log(toCamelCase())
