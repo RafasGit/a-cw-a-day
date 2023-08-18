@@ -16,6 +16,6 @@ function toCamelCase(str){
     }).join('');
   }
   
-  console.log(toCamelCase('my-name-is'))
-  console.log(toCamelCase('We_Are_Alright'))
-  console.log(toCamelCase())
+  console.log(toCamelCase('my-name-is')) //'myNameIs'
+  console.log(toCamelCase('We_Are_Alright')) //'WeAreAlright'
+  console.log(toCamelCase('We-made_it')) //'WeMadeIt'
