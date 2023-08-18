@@ -17,5 +17,5 @@ function toCamelCase(str){
   }
   
   console.log(toCamelCase('my-name-is'))
-  console.log(toCamelCase())
+  console.log(toCamelCase('We_Are_Alright'))
   console.log(toCamelCase())
