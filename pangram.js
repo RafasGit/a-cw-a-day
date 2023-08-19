@@ -2,3 +2,4 @@
 // We are to define parameters
 //We give the return value
 // We give the examples or test cases
+// We will then give our pseudocode
