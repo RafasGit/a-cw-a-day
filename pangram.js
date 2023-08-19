@@ -4,3 +4,5 @@
 // We give the examples or test cases eg1; eg2; eg3;
 // We will then give our pseudocode
 // We then give our solution code
+
+//We then define our test cases
