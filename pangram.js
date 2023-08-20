@@ -18,4 +18,6 @@ function isPangram(string){
     return true;
   }
 
-//We then define our test cases
+//We then use our test cases
+ 
+ console.log(isPangram('my name is jeff')) //false
