@@ -21,3 +21,5 @@ function isPangram(string){
 //We then use our test cases
  
  console.log(isPangram('my name is jeff')) //false
+ console.log(isPangram('the quick brown fox jumps over the lazy dog')) // true
+ 
