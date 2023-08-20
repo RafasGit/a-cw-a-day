@@ -5,5 +5,17 @@
 // We will then give our pseudocode; we declare an array of all the alphabet characters, we then compare our input string to check if the index of all characters referenced from our alphabet array are greater than zero
 // If so, we confirm the string has all alphabets and return false
 // We then give our solution code
+ 
+function isPangram(string){
+    let strArr = string.toLowerCase();
+    let alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
+    
+    for (let i = 0; i < alphabet.length; i++) {
+      if(strArr.indexOf(alphabet[i]) < 0){
+        return false;
+      }
+    }
+    return true;
+  }
 
 //We then define our test cases
