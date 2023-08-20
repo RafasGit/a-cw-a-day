@@ -24,4 +24,4 @@ function isPangram(string){
  console.log(isPangram('the quick brown fox jumps over the lazy dog')) // true
  console.log(isPangram('33;;22')) //false
 
- // End of interview
+ // End of interview, one software eng job please
