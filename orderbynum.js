@@ -4,3 +4,4 @@
 // We also give our examples/ test cases
 // We will then give our pseudocode to walkthrough our solution
 // We then give our solution code written in js
+// We then give our example test cases;
