@@ -2,3 +2,5 @@
 //We describe the parameters that we will define
 //We declare our expected return values
 // We also give our examples/ test cases
+// We will then give our pseudocode to walkthrough our solution
+//
