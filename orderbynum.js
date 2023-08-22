@@ -1,5 +1,6 @@
-// We are to sort a given string in ascending order with each number in each string the determining factor for sorting
-//We describe the parameters that we will define
+// We are to sort a given string in ascending order with each number in each word the determining factor for sorting
+//We describe the parameters that we will define; we will define a parameter that will take in the input string
+
 //We declare our expected return values
 // We also give our examples/ test cases
 // We will then give our pseudocode to walkthrough our solution
