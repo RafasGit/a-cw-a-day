@@ -4,7 +4,7 @@
 // We then declare our return value; we will return our input string having been split into pairs of characters
  
 // We then give our test cases; eg1; solution('myname') // --> ['my', 'na', 'me'] , eg2: solution('gyatt') //--> ['gy', 'at' 't_'] ,eg3: solution('') //--> []
-// Explain the solution in terms of pseudocode
- 
+// Explain the solution in terms of pseudocode; we split the string into array elements, check if the array has even or odd characters and for even, loop while splitting into pairs and for odd loop until the second last element and add '_' and join the pairs
+  
 // Give actual solution code
 //Testing of our test cases 
