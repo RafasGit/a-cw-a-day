@@ -3,7 +3,7 @@
   
 // We then declare our return value; we will return our input string having been split into pairs of characters
  
-// We then give our test cases; eg1; , eg2: ,eg3: .
+// We then give our test cases; eg1; solution('myname') // --> ['my', 'na', 'me'] , eg2: ,eg3: .
 // Explain the solution in terms of pseudocode
 // Give actual solution code
-//Testing of our test cases
+//Testing of our test cases 
