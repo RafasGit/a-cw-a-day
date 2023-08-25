@@ -7,4 +7,16 @@
 // Explain the solution in terms of pseudocode; we split the string into array elements, check if the array has even or odd characters and for even, loop while splitting into pairs and for odd loop until the second last element and add '_' and join the pairs
   // For final pair off odd string we concatenate with ('_'); we then return the resulting array
 // Give actual solution code
+function solution(str){
+    let splt = str.split('')
+    let arr = []
+    for(let i = 0; i<splt.length; i+=2){
+      if(splt[i+1]){
+        arr.push(splt[i]+splt[i+1])
+      }
+      else
+        arr.push(splt[i]+'_')
+    }
+     return arr
+    }
 //Testing of our test cases 
