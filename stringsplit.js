@@ -19,4 +19,12 @@ function solution(str){
     }
      return arr
     }
+    //alt soln;
+    function solution(str) {
+        const arr = str.split('');
+      
+        return arr
+          .map((el, i) => el + (arr.splice(i + 1, 1)[0] || '_'))
+          .filter(el => el);
+      }
 //Testing of our test cases 
