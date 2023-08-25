@@ -19,7 +19,7 @@ function solution(str){
     }
      return arr
     }
-    //alt soln;
+    //alt soln; we split the string into new array; map through the array returning the current element and the next; 
     function solution(str) {
         const arr = str.split('');
       
