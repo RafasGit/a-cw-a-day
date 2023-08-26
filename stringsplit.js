@@ -28,3 +28,4 @@ function solution(str){
           .filter(el => el);
       }
 //Testing of our test cases 
+ console.log(solution('myname')) 
