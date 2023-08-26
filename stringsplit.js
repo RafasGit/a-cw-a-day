@@ -29,3 +29,4 @@ function solution(str){
       }
 //Testing of our test cases 
  console.log(solution('myname')) 
+ console.log( solution('gyatt'))
