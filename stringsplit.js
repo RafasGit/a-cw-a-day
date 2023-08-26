@@ -28,6 +28,6 @@ function solution(str){
           .filter(el => el);
       }
 //Testing of our test cases 
- console.log(solution('myname')) 
- console.log( solution('gyatt'))
- console.log(solution(''))
+ console.log(solution('myname')) // --> ['my', 'na', 'me']
+ console.log( solution('gyatt')) //--> ['gy', 'at' 't_']
+ console.log(solution('')) //--> []
