@@ -1,0 +1,1 @@
+// We are to come up with a solution that splits a string with camel casing using space between the words
