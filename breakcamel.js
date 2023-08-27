@@ -3,5 +3,6 @@
 // We will then explain our expected return output; we will return a string with the camel cased words spaced 
 // We give our examples to act us our test cases; eg solution('guickBrown') //--> guickBriwn;  solution('brownBoy')//--> brown Boy; solution(richBoy) // --> rich Boy
 
-// We will then explain our solution without code; our pseudocode
+// We will then explain our solution without code; our pseudocode; we split the string into array elements, loop through to check if any character is capitalized if so we splice from that element and join the two arrays
+
 // We test out our edge cases
