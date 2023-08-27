@@ -20,3 +20,6 @@ function solution(string) {
 
 
 // We test out our edge cases
+console.log()
+console.log()
+console.log()
