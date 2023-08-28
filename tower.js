@@ -4,3 +4,4 @@
 // We will then give our examples to be used as test cases; eg1; eg2; eg3;
 // We then give our pseudocode explaining how we will solve the issue using non-technical terms
 // We give our solution code
+// We then test our examples
