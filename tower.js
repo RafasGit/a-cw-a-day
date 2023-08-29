@@ -6,3 +6,5 @@
   //We will use a nested for loop with the outer loop creating the rows and the inner loop determining the number of columns
 // We give our solution code
 // We then test our examples
+
+console.log()
