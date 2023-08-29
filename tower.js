@@ -16,7 +16,7 @@ function towerBuilder(floors){
   }
 // We then test our examples
 
-console.log(towerBuilder(1))
+console.log(towerBuilder(1)) // ["*"]
 
 console.log(towerBuilder(2))
 
