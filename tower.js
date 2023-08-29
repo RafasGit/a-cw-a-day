@@ -8,3 +8,5 @@
 // We then test our examples
 
 console.log()
+
+console.log()
