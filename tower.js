@@ -5,10 +5,19 @@
 // We then give our pseudocode explaining how we will solve the issue using non-technical terms
   //We will use a nested for loop with the outer loop creating the rows and the inner loop determining the number of columns
 // We give our solution code
+function towerBuilder(floors){
+    let space,star, tower = [];
+    for(i = 1; i <= floors; i++){
+      space = " ".repeat(floors - i);
+      star  = "*".repeat((2*i) - 1);
+      tower.push(`${space}${star}${space}`);
+    }
+    return tower;
+  }
 // We then test our examples
 
-console.log()
+console.log(towerBuilder(1))
 
-console.log()
+console.log(towerBuilder(2))
 
-console.log()
+console.log(towerBuilder(4))
