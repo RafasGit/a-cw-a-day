@@ -16,7 +16,4 @@
    console.log(arrayDiff([1,2], [1]))
    console.log(arrayDiff([3,4], [3,4]))
    console.log(arrayDiff([1,2], [3,4]))
-    // function arrayDiff(a, b) {
-    //     // Filter entire a array, only keep the value if b does not contain that value
-    //     return a.filter(val => !b.includes(val));
-    // }
+   
