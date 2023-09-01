@@ -7,6 +7,11 @@
 // We will define our problem solution using our pseudocode; we filter through the first array to see if any indexed element is contained in the second array
 
 // We give our solution code 
+
+ function arrayDiff(a, b) {
+        // Filter entire a array, only keep the value if b does not contain that value
+        return a.filter(val => !b.includes(val));
+    }
 // We then test our examples
 
 
