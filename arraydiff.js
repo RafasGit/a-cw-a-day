@@ -13,7 +13,7 @@
         return a.filter(val => !b.includes(val));
     }
 // We then test our examples
-
+   console.log(arrayDiff([1,2], [1]))
 
     // function arrayDiff(a, b) {
     //     // Filter entire a array, only keep the value if b does not contain that value
