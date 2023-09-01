@@ -1,7 +1,8 @@
 // We define our problem to solve; we are given two arrays and we are two return the values not repeated in both arrays
 // We define our parameters to accept inputs; we will define two parameters to accept two array elements
 
-// We then give our expected return value 
+// We then give our expected return value ; we will return the array elements unique to each array
+
 // We then define our examples to be tested; eg1(), eg2(), eg3()
 // We will define our problem solution using our pseudocode
 // We give our solution code 
