@@ -11,7 +11,7 @@ function digitalRoot(n) {
         return acc + +d;
       },0));
   }
-// We test out our example test cases
+// We test out our example test cases;
 console.log(digitalRoot(256))
 console.log(digitalRoot(304))
 console.log(digitalRoot(40))
