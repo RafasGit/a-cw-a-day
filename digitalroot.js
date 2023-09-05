@@ -13,3 +13,4 @@ function digitalRoot(n) {
   }
 // We test out our example test cases
 console.log(digitalRoot(256))
+console.log(digitalRoot(304))
