@@ -12,3 +12,4 @@ function digitalRoot(n) {
       },0));
   }
 // We test out our example test cases
+console.log(digitalRoot(256))
