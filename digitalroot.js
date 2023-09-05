@@ -11,6 +11,10 @@ function digitalRoot(n) {
         return acc + +d;
       },0));
   }
+  //alt 2 dsa
+  function digital_root(n) {
+    return (n - 1) % 9 + 1;
+  }
 // We test out our example test cases;
 console.log(digitalRoot(256))
 console.log(digitalRoot(304))
