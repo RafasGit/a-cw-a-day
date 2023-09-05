@@ -1,4 +1,4 @@
-// We are to provide our problem to solve
+// We are to provide our problem to solve; we are to find the recursive sum of all digits in a number
 // We provide our parameters to accept inputs
 // We then define our return statement
 // We provide our examples to be used as test cases
