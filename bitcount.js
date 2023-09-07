@@ -15,3 +15,4 @@ var countBits = function(n) {
    return count;
   };
 // We then test out out examples
+console.log(countBits(0)) // --> 0;
