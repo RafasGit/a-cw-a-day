@@ -4,4 +4,14 @@
 // We then give our examples to be used as test cases; countBits(0) // --> 0; countBits(4) // --> 1; countBits(10) // --> 2;
 // We give our pseudocode explaining non-technically our solution; we convert each number input into string to get its binary representation, loop through and if its binary representation is equal to one, we add to our variable count. 
 // We give our solution code
+var countBits = function(n) {
+    // Program Me
+     let count = 0;
+     n.toString(2).split('').forEach((x,i) => {
+        if(x === '1'){
+          count ++;
+        }
+  })
+   return count;
+  };
 // We then test out out examples
