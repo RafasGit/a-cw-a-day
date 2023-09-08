@@ -4,3 +4,4 @@
 // We then give our examples
 // We descirbe our code solution using non-technical terms
 // We give the actual code solution
+// We test out our examples using test cases
