@@ -1,4 +1,4 @@
-// We describe the problem our solution is to solve
+// We describe the problem our solution is to solve; we are to count the number of times an individual 
 // We then describe the parameters we will define and the input it takes in
 // We describe our expected return parameter
 // We then give our examples
