@@ -2,3 +2,4 @@
 // We then define the parameters we would like to assign our variable input 
 // We give our expected return value
 // We give our examples to be used as test cases
+// We describe our solution in pseudocode; giving non technical procedure of solving
