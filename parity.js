@@ -6,6 +6,6 @@
 // We give our actual solution code
 // We give our test cases 
 // 
-console.log()
-console.log()
-console.log()
+console.log() //
+console.log() //
+console.log() //
