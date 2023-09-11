@@ -7,3 +7,4 @@
 // We give our test cases 
 // 
 console.log()
+console.log()
