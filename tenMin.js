@@ -8,4 +8,4 @@
 
 //eg1 console.log()
 //eg2 console.log()
-//eg3
+//eg3 console.log()
