@@ -1,7 +1,7 @@
 // We define the problem statement
 // We define our parameters
 // We define our return value
-// We give our example statements
+// We give our example statements eg1
 // We give our pseudocode
 // We give our solution code
 // We test out our examples
