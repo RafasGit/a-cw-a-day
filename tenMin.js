@@ -7,5 +7,5 @@
 // We test out our examples
 
 //eg1 console.log()
-//eg2
+//eg2 console.log()
 //eg3
