@@ -6,6 +6,6 @@
 // We give our solution code
 // We test out our examples
 
-//eg1
+//eg1 console.log()
 //eg2
 //eg3
