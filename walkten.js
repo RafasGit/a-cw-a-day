@@ -38,4 +38,4 @@ function isValidWalk(walk) {
 
  console.log(isValidWalk(['n','n','s','e']))  // --> false
  console.log(isValidWalk(['n', 's', 'w', 'e'])) // --> true
-//eg3 console.log()
+ console.log(isValidWalk(['e'])) // --> false
