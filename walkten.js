@@ -4,6 +4,36 @@
 // We give our example statements eg1; isValidWalk(['n'.'n'.'s'.'e']) // --> false eg2; isValidWalk(['n', 's', 'w', 'e']) // --> true eg3... isValidWalk(['e']) //--> false
 // We give our pseudocode; we check if distance covered forward(North) is cancelled out by distance going backwards(south) and if distance going left(west) is canceled out by distance going right(east), steps taken should amount to ten
 // We give our solution code
+function isValidWalk(walk) {
+    //insert brilliant code here
+    let north = 0
+    let south = 0
+    let east = 0
+    let west = 0
+    walk.forEach((x,i) => {
+      if(x == 'n'){
+      north += 1;
+    }          
+    else if(x == 's'){
+      south += 1;
+    } 
+      else if(x == 'e'){
+        east += 1;
+      }
+    else if(x == 'w'){
+      west += 1;
+    }
+  })
+    let count = north + south + east + west
+   if(north == south && east == west && count == 10){
+     return true;
+   } 
+    else{
+     return false;
+   }
+     
+  }
+  
 // We test out our examples
 
 //eg1 console.log()
