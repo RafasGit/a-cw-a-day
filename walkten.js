@@ -1,5 +1,5 @@
 // We define the problem statement; we accept an input of keyed in compass directions and confirm if the directions return us to our starting pointand after 10 minutes
-// We define our parameters
+// We define our parameters; we define parameters that will take in the input directions given by the walking app
 // We define our return value
 // We give our example statements eg1; eg2; eg3...
 // We give our pseudocode
