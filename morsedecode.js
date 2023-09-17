@@ -16,3 +16,4 @@ decodeMorse = function(morseCode){
   }
 // We give our test case examples
  console.log(decodeMorse(' .... . -.-- ')) // --> 'HEY'
+ console.log(decodeMorse('.... . -.--   .--- ..- -.. .'))  // --> 'HEY JUDE'
