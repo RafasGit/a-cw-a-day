@@ -1,1 +1,2 @@
 // We define the statement that requires a solution 
+// We then define the parameters we are to define
