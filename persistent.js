@@ -3,3 +3,4 @@
 // We then give our return value
 // We then give our example statements
 // We give our pseudocode explanation
+// We give our examples to be used as test cases
