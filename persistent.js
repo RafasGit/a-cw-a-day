@@ -25,3 +25,4 @@ function persistence(num) {
   // Test cases
   console.log()
   console.log()
+  console.log()
