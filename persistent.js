@@ -24,4 +24,4 @@ function persistence(num) {
 
   // Test cases
   console.log()
-  console
+  console.log()
