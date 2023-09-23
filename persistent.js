@@ -21,3 +21,7 @@ function persistence(num) {
     }
     return count
   }
+
+  // Test cases
+  console.log()
+  console
