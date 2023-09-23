@@ -25,4 +25,4 @@ function persistence(num) {
   // Test cases
   console.log(persistence(42))
   console.log(persistence(38))
-  console.log()
+  console.log(persistence(4))
