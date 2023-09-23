@@ -23,6 +23,6 @@ function persistence(num) {
   }
 
   // Test cases
-  console.log()
+  console.log(persistence(42))
   console.log()
   console.log()
