@@ -4,7 +4,7 @@
 // We then give our example statements; persistence(42) // --> 1 persistence(38) // --> 2 persistence(4) // --> 2
 // We give our pseudocode explanation; we convert to string, we then split into two elements, multiply and if greater than 9, we multiply the two numbers once more until single digit is the result of a product; try different functions for splitting and reducing
 // We give our examples to be used as test cases
-
+  // solution 1
   function persistence(num) {
     for (var i = 0; num > 9; i++) {
       num = num.toString().split('').reduce((t, c) => c * t);
@@ -25,4 +25,4 @@ function persistence(num) {
   // Test cases
   console.log(persistence(42)) // --> 1
   console.log(persistence(38)) // --> 2
-  console.log(persistence(4)) // --> 2
+  console.log(persistence(4)) // --> 2 
