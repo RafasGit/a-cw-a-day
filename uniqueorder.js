@@ -4,7 +4,7 @@
 // We then give examples to be used as test cases; eg1 uniqueInOrder('aacde') // --> ['a', 'c', 'd', 'e'] eg2; uniqueInOrder([1,2,2,3]) -// --> [1,2,3] eg3; uniqueInOrder('AAAbbbccDD') // --> ['A', 'b', 'c', 'D']
 // We then give our non-technical explanation as pseudocode; we declare a new empty array in which we will push new elements upon being compared to the element next to it from our initial string and when found to not be similar.
 // We then give our solution code
-// We test out our examples
+
 var uniqueInOrder = function (iterable) {
     var arr = [];
     
@@ -20,3 +20,6 @@ var uniqueInOrder = function (iterable) {
          }
     return arr;
     }
+
+    // We test out our examples
+    console.log(uniqueInOrder('aacde'))  // --> ['a', 'c', 'd', 'e']
