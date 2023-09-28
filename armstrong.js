@@ -17,3 +17,4 @@
 }
 
 // We test out our examples
+console.log(narcissisistic(10))
