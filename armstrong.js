@@ -15,8 +15,17 @@
   })
    return sum == value ? true : false
 }
+//eg 2
+function narcissistic(value) {
+    // Code me to return true or false
+      let sum = 0;
+     value.toString().split('').map(Number).forEach((x,i) => {
+      sum += Math.pow(x, String(value).length);
+    })
+     return sum == value ? true : false
+  }
 
 // We test out our examples
-console.log(narcissisistic(10)) 
-console.log(narcissistic(153))
-console.log(narcissistic(89))
+console.log(narcissistic(10)) // --> false
+console.log(narcissistic(153)) // --> true
+console.log(narcissistic(89)) // --> false
