@@ -4,4 +4,16 @@
 // We give our example cases; eg1; narcissisistic(10) // --> false ; narcissistic(153) // --> true ; narcissistic(89) // --> false
 // We then give our non-technical explanation to the solution; we will split the integer into array elements; raise each element to the power of the length of the array and comfirm if sum of the resulting values is equal to input value
 // we give our code solution 
+
+ function narcissistic(value) {
+  // Code me to return true or false
+  let arr = value.toString().split('').map(Number)
+  let sum = 0;
+  
+  arr.forEach((x,i) => {
+    sum += Math.pow(x,arr.length);
+  })
+   return sum == value ? true : false
+}
+
 // We test out our examples
