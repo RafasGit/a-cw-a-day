@@ -17,4 +17,6 @@
 }
 
 // We test out our examples
-console.log(narcissisistic(10))
+console.log(narcissisistic(10)) 
+console.log(narcissistic(153))
+console.log(narcissistic(89))
