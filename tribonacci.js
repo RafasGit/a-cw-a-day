@@ -1,2 +1,2 @@
 // We will describe the problem we are to solve
-// we then describe the return
+// We then describe the parameters we will define
