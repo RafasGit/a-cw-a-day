@@ -4,3 +4,4 @@
 // We then give our examples
 // We then give our pseudocode
 // We give our solution code
+// We conclude by testing our examples
