@@ -1,4 +1,4 @@
-// We describe the problem our solution tackles
+// We describe the problem our solution tackles; we return the number in an array of numbers that is unique
 // We describe the parameters we will declare
 // We then declare our expected return value
 // We then give our examples
