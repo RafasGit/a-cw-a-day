@@ -4,5 +4,12 @@
 // We then give our examples
 // We then give our pseudocode
 // We give our solution code
+
+function findUniq(arr) {
+    // do magic
+    let uniq = arr.filter((x,i) => 
+        arr.indexOf(x) == arr.lastIndexOf(x))                 
+    return Number(uniq);
+  }
+  
 // We conclude by testing our examples
-// w e first show the name of hhow i
