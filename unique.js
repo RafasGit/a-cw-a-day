@@ -5,4 +5,4 @@
 // We then give our pseudocode
 // We give our solution code
 // We conclude by testing our examples
-// w e first show the name of hhow
+// w e first show the name of hhow i
