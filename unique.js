@@ -2,7 +2,7 @@
 // We describe the parameters we will declare; we declare a parameter that will accept an array input of integers with no strings or empty inputs
 // We then declare our expected return value; we return the unique number in the input array
 // We then give our examples; findUniq([1, 2, 2, 4, 4]) // --> 1, findUniq([3, 3, 5, 6, 6]) // --> 5, findUniq([7, 7, 9, 10, 10]) // --> 9
-// We then give our pseudocode
+// We then give our pseudocode; we filter thrugh the array elements to see if there is an item whose index is also the last index the element is found in the array meaning there is no other instance of the element. If so we return that element. 
 // We give our solution code
 
 function findUniq(arr) {
