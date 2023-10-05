@@ -1,6 +1,6 @@
-// We will describe the problem we are to solve; 
-// We then describe the parameters we will define
-// We then give our return statement 
+// We will describe the problem we are to solve; we are to formulate a tribonacci sequence
+// We then describe the parameters we will define; we declare a parameter to accept the array of the forst three numbers as well as the number to which the sequence should be created
+// We then give our return statement; we will return the sequence formulated
 // We give our examples to be used as tests
 // We give our pseudocode solution; we first take in the array of values and the required length of the triboonacci sequence, we then check if the required sequence is 0, in which case we return 0 or if required sequence is 1, we return 1, we then loop through and add last three sequence values to create our new value. We then return the sequence.
 // We give our solution code 
