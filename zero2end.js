@@ -1,4 +1,4 @@
-// We evaluate the problem we are to solve
+// We evaluate the problem we are to solve; we are to push all zeros in an array to the end
 // We define the parameter we will initialize
 // We then describe the expected return values
 // We create examples to use as tests; eg1, eg2, eg3
