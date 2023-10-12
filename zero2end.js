@@ -9,3 +9,10 @@
 console.log(moveZeros([3,4,5,0,5,0,4,0]))
 console.log( moveZeros([1,0,3,2,false,5,0,4]))
 console.log(moveZeros([true,2,0,0,3,4,1]))
+
+var moveZeros = function (arr) {
+    return [
+      ...(arr.filter(n => n !== 0)),
+      ...(arr.filter(n => n === 0))
+    ];
+  }
