@@ -5,3 +5,5 @@
 // We then describe the code in non-technical terms using pseudo; we intake the array and loop through the array elements and if the element is equal to zero. we place it at the end of the array we are to return
 // We then give our solution code
 // We then test our examples
+
+console.log(moveZeros([3,4,5,0,5,0,4,0]))
