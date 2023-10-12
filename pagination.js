@@ -1,4 +1,4 @@
-// We discuss the problem we are to solve; we are to pus th
+// We discuss the problem we are to solve; we are to pus the init
 // We define the parameters to accept inputs
 // We describe the return value expected
 // We then give the examples to be tested
