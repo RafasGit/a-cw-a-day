@@ -1,4 +1,4 @@
-// We define the problem to solve
+// We define the problem to solve; we 
 // We then define the parameters we are to use
 // We then declare the expected return value
 // We then give our example tests
