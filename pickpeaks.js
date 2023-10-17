@@ -4,4 +4,34 @@
 // We then give our example tests eg; pickPeaks([1,1,1,1]) // --> {pos:[],peaks:[]} eg2; pickPeaks([1,2,2,3,2]) // --> {pos:[3], peaks:[3]} eg3; p
 // We give our pseudocode; we will accept our array of inputs, then declare our object that we will return, then loop through our input array to check if any sequence of three numbers, the middle element is greater than or equal to the next and previous element and if greater than is declared a peak 
 // We give our solution code
+function pickPeaks(arr)
+{
+   const obj = {
+      pos: [],
+      peaks: []
+   };
+   let i = 1;
+   while(i < arr.length-1)
+   {
+      let run = false;
+      let peak = false
+      if(new Set(arr.slice(i, i+2)).size === 1)  // There is a run of numbers.
+      {
+         previous = arr[i-1] < arr[i];
+         var j = i;
+         while(arr[j] === arr[i]) j++;  // Consume the run.
+         next = arr[j] < arr[i]
+         if(previous && next) peak = true;  // Was the run a plateau?
+      }
+      else if(arr[i] > arr[i-1] && arr[i] > arr[i+1]) peak = true;
+      if(peak)
+      {
+         obj.pos.push(i);
+         obj.peaks.push(arr[i]);
+      }
+      i = run ? j : i+1;
+   }
+   return obj
+}
 // We test out our examples
+console.log(pickPeaks([1,1,1,1])) // --> {pos:[],peaks:[]}
