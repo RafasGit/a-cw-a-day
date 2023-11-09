@@ -5,4 +5,3 @@
 // We then give the non-technical explanation of our solution
 // We then give our code solution
 // We then test out our examples
-1 2 3 4 5 6 7 8 9 10 11 12 13
