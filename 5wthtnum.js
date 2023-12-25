@@ -10,7 +10,7 @@ function unusualFive() {
      return arr.length
     
   }
-0x0b172f52326f1aa18f8416711db69842093fd93a0b36776f4fe18bd50d95965b
+
   unusualFive(color)
   unusualFive(emacs)
   unusualFive(tests)
