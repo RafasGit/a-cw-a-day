@@ -25,5 +25,5 @@ function alphabetPosition(text) {
 // Use test cases / log on console.
 console.log(alphabetPosition('Abcde')) //  '1 2 3 4 5'
 console.log(alphabetPosition('fghij')) // '6 7 8 9 10'
-console.log(alphabetPosition('klmno')) // '11 12 13 14 15'
-1
+console.log(alphabetPosition('klmno')) // '11 12 13 14
+ 1
