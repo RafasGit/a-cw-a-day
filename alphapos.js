@@ -26,4 +26,23 @@ function alphabetPosition(text) {
 console.log(alphabetPosition('Abcde')) //  '1 2 3 4 5'
 console.log(alphabetPosition('fghij')) // '6 7 8 9 10'
 console.log(alphabetPosition('klmno')) // '11 12 13 14
-      
+    
+1
+
+
+
+
+
+
+
+
+
+
+// <!-- 
+//     <!-- Load React. -->
+//     <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+//     <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+//     <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+//     production.min.js
+//     <!-- Load our React component. -->
+//       <script src="like_button.js"></script> -->
