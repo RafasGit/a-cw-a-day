@@ -28,7 +28,7 @@ console.log(alphabetPosition('fghij')) // '6 7 8 9 10'
 console.log(alphabetPosition('klmno')) // '11 12 13 14
      
 
-         1 2 
+         1 
 
 
 // <!-- 
