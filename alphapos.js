@@ -28,7 +28,7 @@ console.log(alphabetPosition('fghij')) // '6 7 8 9 10'
 console.log(alphabetPosition('klmno')) // '11 12 13 14
      
 
-             
+        1     
 //     <!-- Load React. -->
 //     <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
 //     <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
