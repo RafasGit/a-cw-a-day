@@ -29,4 +29,4 @@ console.log(alphabetPosition('klmno')) // '11 12 13 14
      
 
                    
- 1 2 3 4 5 6 
+ 1 2 3 4 5  
