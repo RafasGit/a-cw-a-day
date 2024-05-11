@@ -4,7 +4,7 @@
 // We give our example cases; eg1; narcissisistic(10) // --> false ; narcissistic(153) // --> true ; narcissistic(89) // --> false
 // We then give our non-technical explanation to the solution; we will split the integer into array elements; raise each element to the power of the length of the array and comfirm if sum of the resulting values is equal to input value
 // we give our code solution 
-1 2 3 4 5         
+1 2 3 4          
  function narcissistic(value) {
   // Code me to return true or false
   let arr = value.toString().split('').map(Number)
