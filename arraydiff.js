@@ -1,4 +1,4 @@
-// We define our problem to solve; we are given two arrays and we are two return the values not repeated in both arrays
+// We define our problem to solve; we are given two arrays and we are to return the values not repeated in both arrays
 // We define our parameters to accept inputs; we will define two parameters to accept two array elements
 
 // We then give our expected return value ; we will return the array elements unique to each array
@@ -16,4 +16,4 @@
    console.log(arrayDiff([1,2], [1])) //2
    console.log(arrayDiff([3,4], [3,4])) //..
    console.log(arrayDiff([1,2], [3,4])) //1 2 3 4
-   console.log(arrayDiff([1,2], [3,4])) //
+   console.log(arrayDiff([1,2], [5,4])) //1 2
