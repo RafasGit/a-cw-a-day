@@ -15,5 +15,5 @@
 // We then test our examples
    console.log(arrayDiff([1,2], [1])) //2
    console.log(arrayDiff([3,4], [3,4])) //..
-   console.log(arrayDiff([1,2], [3,4]))
+   console.log(arrayDiff([1,2], [3,4])) //1 
    
