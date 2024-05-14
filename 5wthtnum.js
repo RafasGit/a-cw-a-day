@@ -15,7 +15,7 @@ function unusualFive() {
   unusualFive(emacs)
   unusualFive(tests)
 
- unusualFive(da)
+ unusualFive(datu)
   // We also return string lengths, indexOf, 
  1 2 3 4 5 6 
  
