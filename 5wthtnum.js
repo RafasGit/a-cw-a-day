@@ -17,5 +17,5 @@ function unusualFive() {
 
  unusualFive(datum)
   // We also return string lengths, indexOf, 
- 1 2 3 4 5 6 
+ 1 2 3 4 5 
  
