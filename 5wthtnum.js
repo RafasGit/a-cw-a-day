@@ -14,7 +14,8 @@ function unusualFive() {
   unusualFive(color)
   unusualFive(emacs)
   unusualFive(tests)
- unusualFive()
+
+ unusualFive(da)
   // We also return string lengths, indexOf, 
  1 2 3 4 5 6 
  
