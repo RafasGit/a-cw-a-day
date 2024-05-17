@@ -9,8 +9,12 @@ function toCamelCase(str){
     return str.map(function(el, i){
       if(el == '-' || el == '_'){
         el = str[i+1].toUpperCase();
+         // console.log(el)
+        console.log(str)
         str.splice(i+1, 1);
+        console.log(str)
       }
+      console.log(el)
      return el;
       
     }).join('');
@@ -18,5 +22,5 @@ function toCamelCase(str){
   
   console.log(toCamelCase('my-name-is')) //'myNameIs'
   console.log(toCamelCase('We_Are_Alright')) //'WeAreAlright'
-  console.log(toCamelCase('We-made_it')) //'WeMadeIt'
-  console.log(toCamelCase())
+  // console.log(toCamelCase('We-made_it')) //'WeMadeIt'
+  // console.log(toCamelCase('nO-new_friends'))
