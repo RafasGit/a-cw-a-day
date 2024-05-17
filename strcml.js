@@ -14,7 +14,7 @@ function toCamelCase(str){
         str.splice(i+1, 1);
         console.log(str)
       }
-     // console.log(el)
+      // console.log(el)
      return el;
       
     }).join('');
