@@ -10,7 +10,7 @@ function toCamelCase(str){
       if(el == '-' || el == '_'){
         el = str[i+1].toUpperCase();
          // console.log(el)
-        console.log(str)
+        //  console.log(str)
         str.splice(i+1, 1);
         console.log(str)
       }
