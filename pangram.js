@@ -23,7 +23,7 @@ function isPangram(string){
  console.log(isPangram('my name is jeff')) //false
  console.log(isPangram('the quick brown fox jumps over the lazy dog')) // true
  console.log(isPangram('33;;22')) //false
- console.log(isPangram("Amazingly few discotheques provide jukeboxes."))
- console.log(isPangram("git commit"))
+ console.log(isPangram("Amazingly few discotheques provide jukeboxes.")) // true
+ console.log(isPangram("git commit")) //false
  // End of interview, one software eng job please
  
