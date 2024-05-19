@@ -23,8 +23,8 @@ function order(words){
 // We then give our example test cases;
  
 // 1st test case;
-console.log(order('th3e boy2 is6 goin1g to0o mak5e i8t')) // --> 'to0o goin1g boy2 th3e mak5e i6s i8t'
+//console.log(order('th3e boy2 is6 goin1g to0o mak5e i8t')) // --> 'to0o goin1g boy2 th3e mak5e i6s i8t'
 // 2nd test case;
-//console.log(order('w2e ha3ve to4')) // 'w2e ha3ve to4'
+console.log(order('w2e ha3ve to4')) // 'w2e ha3ve to4'
 // 3rd test case;
 //console.log(order('kee4p push5ing br3o')) // 'kee4p push5ing br3o'
