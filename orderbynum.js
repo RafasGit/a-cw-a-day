@@ -18,7 +18,7 @@ function order(words){
       }
     }
     return sortedArray.join(' ');
-  }
+  }3
   
 // We then give our example test cases;
  
