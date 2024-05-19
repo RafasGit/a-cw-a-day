@@ -13,7 +13,7 @@ function order(words){
       for(j = 0; j < array.length; j++) {
         if(array[j].indexOf(i) >= 0) {
           sortedArray.push(array[j]);
-          consol
+          console.
         }
       }
     }
