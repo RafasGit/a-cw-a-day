@@ -25,6 +25,6 @@ function order(words){
 // 1st test case;
 console.log(order('th3e boy2 is6 goin1g to0o mak5e i7t')) // --> 'to0o goin1g boy2 th3e mak5e i6s i8t'
 // 2nd test case;
-console.log(order('w2e ha3ve to4')) // 'w2e ha3ve to4'
+console.log(order('w2e ha3ve t1o')) // 't1o w2e ha3ve '
 // 3rd test case;
-console.log(order('kee4p push5ing br3o')) // 'kee4p push5ing br3o'
+console.log(order('kee1p br3o push2ing')) // 'kee1p push2ing br3o'
