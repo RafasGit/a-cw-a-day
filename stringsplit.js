@@ -32,4 +32,4 @@ function solution(str){
  console.log(solution('myname')) // --> ['my', 'na', 'me']
  console.log( solution('gyatt')) //--> ['gy', 'at' 't_']
  console.log(solution('')) //--> []
- console.log(solution("pipelines")) // --> ['pi', 'pe', ]
+ console.log(solution("pipelines")) // --> ['pi', 'pe', 'li', ' ]
