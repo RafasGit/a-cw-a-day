@@ -23,4 +23,4 @@ function solution(string) {
 console.log(solution('guickBrown')) // --> guick Brown
 console.log(solution('brownBoy')) //--> brown Boy
 console.log(solution('richBoy')) // --> rich Boy
-console.log(solution('ty'))
+console.log(solution('type'))
