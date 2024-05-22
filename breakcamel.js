@@ -20,6 +20,7 @@ function solution(string) {
 
 
 // We test out our edge cases
-console.log(solution('guickBrown')) // --> guickBriwn
+console.log(solution('guickBrown')) // --> guick Brown
 console.log(solution('brownBoy')) //--> brown Boy
 console.log(solution('richBoy')) // --> rich Boy
+co
