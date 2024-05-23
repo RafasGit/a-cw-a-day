@@ -4,7 +4,7 @@
 // We will then give our examples to be used as test cases; eg1; towerBuilder(1) // ["*"] eg2; towerBuilder(2) // ["*","***"] eg3; towerBuilder(4) //["*","***","*****","*******"] 
 // We then give our pseudocode explaining how we will solve the issue using non-technical terms
   //We will use a nested for loop with the outer loop creating the rows and the inner loop determining the number of columns
-// We give our solution code; a depicion of Pas
+// We give our solution code; a depicion of Pascal's
 function towerBuilder(floors){
     let space,star, tower = [];
     for(i = 1; i <= floors; i++){
