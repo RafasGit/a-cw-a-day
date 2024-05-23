@@ -22,4 +22,4 @@ console.log(towerBuilder(2))  // ["*","***"]
 
 console.log(towerBuilder(4))  //["*","***","*****","*******"] 
 
-console.log(towerBuilder(5)) //["*","***"]
+console.log(towerBuilder(5)) //["*","***","*****"]
