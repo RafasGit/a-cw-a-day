@@ -8,7 +8,7 @@ var countBits = function(n) {
     // Program Me
      let count = 0;
      n.toString(2).split('').forEach((x,i) => {
-      console.l
+      console.log
         if(x === '1'){
           count ++;
         }
