@@ -20,4 +20,4 @@ console.log(countBits(0)) // --> 0;
 console.log(countBits(4)) // --> 1;
 console.log(countBits(9)) // --> 2;
 console.log(countBits(8)) // --> 1
-console.log(countBits(10))
+console.log(countBits(10))// 
