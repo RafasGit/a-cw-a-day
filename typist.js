@@ -21,4 +21,4 @@ function typist(s){
   }
 // We test out our examples using test cases
 
-console.log(typist("f"))
+console.log(typist("fd"))
