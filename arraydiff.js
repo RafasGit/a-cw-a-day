@@ -17,4 +17,4 @@
    console.log(arrayDiff([3,4], [3,4])) //..
    console.log(arrayDiff([1,2], [3,4])) //1 2 3 4
    console.log(arrayDiff([1,2], [5,4])) //1 2 5 4
-   console.log(arrayDiff([7,8], [9,8])) // 7 8 
+   console.log(arrayDiff([7,8], [9,8])) // 7 8 9
