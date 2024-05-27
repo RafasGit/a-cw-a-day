@@ -19,4 +19,4 @@ function digitalRoot(n) {
 console.log(digitalRoot(256))
 console.log(digitalRoot(304))
 console.log(digitalRoot(40))
-console.log(di)
+console.log(digi)
