@@ -17,6 +17,6 @@ function digitalRoot(n) {
   }
 // We test out our example test cases;
 console.log(digitalRoot(256))//13
-console.log(digitalRoot(304))/
-console.log(digitalRoot(40))
+console.log(digitalRoot(304))//7
+console.log(digitalRoot(40))//
 console.log(digitalRoot(456))
