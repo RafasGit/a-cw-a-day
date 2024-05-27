@@ -19,4 +19,4 @@ function digitalRoot(n) {
 console.log(digitalRoot(256))//13
 console.log(digitalRoot(304))//7
 console.log(digitalRoot(40))//4
-console.log(digitalRoot(456))
+console.log(digitalRoot(456))//
