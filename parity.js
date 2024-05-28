@@ -6,6 +6,11 @@
 // We give our actual solution code
 // We give our test cases 
 // 
+function parity(n){
+    let 
+    n.filter
+
+}
 console.log() //
 console.log() //
 console.log() //
