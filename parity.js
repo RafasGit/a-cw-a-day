@@ -9,8 +9,11 @@
 function parity(n){
     let out = []
      n.filter((x,i) => {
-        x % 2 != 0
-     } )
+       if(x % 2 != 0){
+         out.push(n[i])
+       }
+      return out.length > n ? 
+     })
 
 }
 console.log(findOutlier(2, 4, 5, 8, 12)) // 5
