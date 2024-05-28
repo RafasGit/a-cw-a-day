@@ -12,4 +12,4 @@ function parity(n){
 }
 console.log(findOutlier(2, 4, 5, 8, 12)) // 5
 console.log(findOutlier(3, 4, 7, 9, 11)) // 4
-console.log(findOutlier) //
+console.log(findOutlier(1, 0, 2, 4)) //
