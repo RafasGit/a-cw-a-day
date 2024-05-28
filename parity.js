@@ -7,14 +7,9 @@
 // We give our test cases 
 // 
 function parity(n){
-    let out = []
-     n.filter((x,i) => {
-       if(x % 2 != 0){
-         out.push(n[i])
-       }
-      return out.length > n ? n : out
-     })
-
+   // let out = []
+    const out = n.filter((x,i) => x % 2 !== 0)  
+      return out.length > n ? n : out     
 }
 console.log(findOutlier(2, 4, 5, 8, 12)) // 5
 console.log(findOutlier(3, 4, 7, 9, 11)) // 4
