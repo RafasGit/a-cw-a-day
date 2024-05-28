@@ -11,6 +11,6 @@ function parity(n){
     n.filter
 
 }
-console.log(findOutlier()) //
+console.log(findOutlier(2, 4, 5, 8, 12)) //
 console.log() //
 console.log() //
