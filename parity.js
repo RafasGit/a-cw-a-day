@@ -7,10 +7,9 @@
 // We give our test cases 
 // 
 function parity(n){
-    let 
-    n.filter
+    let out = n.filter((x,i) => x%2 != )
 
 }
 console.log(findOutlier(2, 4, 5, 8, 12)) // 5
-console.log(findOutlier(3, 4, 7, 9, 11)) //
+console.log(findOutlier(3, 4, 7, 9, 11)) // 4
 console.log() //
