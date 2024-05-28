@@ -12,7 +12,7 @@ function parity(n){
        if(x % 2 != 0){
          out.push(n[i])
        }
-      return out.length > n ? 
+      return out.length > n ? n 
      })
 
 }
