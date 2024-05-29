@@ -56,4 +56,4 @@ function isValidWalk(walk) {
  console.log(isValidWalk(['n','n','s','e']))  // --> false
  console.log(isValidWalk(['n', 's', 'w', 'e'])) // --> true
  console.log(isValidWalk(['e'])) // --> false
-console.lo
+console.log()
