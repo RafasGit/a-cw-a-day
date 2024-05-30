@@ -19,6 +19,6 @@ function kebabize(str) {
 }
 // We test out our test cases
   console.log(kebabize('nGOMBE')) //n-g-o-m-b-e
-  console.log(kebabize('makeMoney'))
+  console.log(kebabize('makeMoney')) //make-Money
   console.log(kebabize('doTheThing'))
   console.log(kebabize('typeSafe'))
