@@ -21,4 +21,4 @@ function kebabize(str) {
   console.log(kebabize('nGOMBE'))
   console.log(kebabize('makeMoney'))
   console.log(kebabize('doTheThing'))
-  console.log(kebabize())
+  console.log(kebabize('typ'))
