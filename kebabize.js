@@ -21,4 +21,4 @@ function kebabize(str) {
   console.log(kebabize('nGOMBE')) //n-g-o-m-b-e
   console.log(kebabize('makeMoney')) //make-Money
   console.log(kebabize('doTheThing')) //do-the-thing
-  console.log(kebabize('typeSafe'))
+  console.log(kebabize('typeSafe')) //type-safe
