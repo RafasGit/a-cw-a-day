@@ -29,4 +29,4 @@ console.log(order('w2e ha3ve t1o')) // 't1o w2e ha3ve '
 // 3rd test case;
 console.log(order('kee1p br3o push2ing')) // 'kee1p push2ing br3o'
 // 4th test case:
-console.log(order('bui1d, d3ploy, re2actor')) //bui1d, re2actor, d3ploy
+console.log(order('bui1d, d3ploy, re2actor')) //bui1d, re2actor, d3ploy'
