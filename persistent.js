@@ -12,7 +12,7 @@
     return i;
  } 
   
-// solution 2
+// solution 2 
 function persistence(num) {
     let count = 0;
     while(num.toString().length > 1){
