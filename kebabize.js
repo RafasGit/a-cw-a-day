@@ -4,10 +4,21 @@
 // We give our examples to test the solution eg1, kebabize('NGOMBE') // --> 'n-g-o-m-b-e' eg2, kebabize('makeMoney') // --> 'make-money' eg3 kebabize('doTheThing') // --> 'do-the-thing'
 // We then give our pseudocode to breakdown our solution in simple terms; we split the string into individual elements, we then filter to find the characters that are not equal to uppercase and join the text, we then loop and checki if uppercase add '-' and the string converted to lowercase else only add the string
 // We give our solution code
-const moveZeros = function (arr) {
-  return [
-    ...(arr.filter(n => n !== 0)),
-    ...(arr.filter(n => n === 0))
-  ];
+function kebabize(str) {
+  const tmpStr = str.split("").filter(e => e.toLowerCase() !== e.toUpperCase()).join("")
+  alert(tmpStr)
+  let res = tmpStr[0].toLowerCase();
+  for(let i = 1; i < tmpStr.length; i++){
+    if(tmpStr[i].toUpperCase() == tmpStr[i]){
+      res = res + "-" + tmpStr[i].toLowerCase()
+    } else {
+      res += tmpStr[i]
+    }
+  }
+  alert(res);
 }
-console.log(moveZeros([2,0,4,0,null,undefined]))
+// We test out our test cases
+  console.log(kebabize('nGOMBE')) //n-g-o-m-b-e
+  console.log(kebabize('makeMoney')) //make-Money
+  console.log(kebabize('doTheThing')) //do-the-thing
+  console.log(kebabize('typeSafe')) //type-safe
