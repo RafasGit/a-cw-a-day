@@ -21,5 +21,5 @@ function typist(s){
   }
 // We test out our examples using test cases
 
-console.log(typist("fdg"))
+console.log(typist("fdg")) // 
 console.log(typist("Ghe"))
