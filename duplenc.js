@@ -18,4 +18,4 @@ function duplicateEncode(word){
 console.log(duplicateEncode('tommmy')) // --> '(())('
 console.log(duplicateEncode('Musa'))  // --> '(((('
 console.log(duplicateEncode('exceed')) // --> ')(())('
-console.log(dupli)
+console.log(duplicate)
