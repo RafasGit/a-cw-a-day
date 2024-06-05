@@ -18,7 +18,7 @@ function duplicateEncode(word){
 console.log(duplicateEncode('tommmy')) // --> '(())('
 console.log(duplicateEncode('Musa'))  // --> '(((('
 console.log(duplicateEncode('exceed')) // --> ')(())('
-console.log(duplicate('typesafe')) // --> '
+console.log(duplicate('typesafe')) // --> '((
  
 console.log(duplicate('types'))
  
