@@ -20,5 +20,5 @@ console.log(duplicateEncode('Musa'))  // --> '(((('
 console.log(duplicateEncode('exceed')) // --> ')(())('
 console.log(duplicate('typesafe')) // --> '((
  
-console.log(duplicate('types'))
+console.log(duplicate('typesaf'))
  
