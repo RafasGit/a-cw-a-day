@@ -20,7 +20,6 @@ function typist(s){
     return res
   }
 // We test out our examples using test cases
- //
 console.log(typist("fdg")) // --> 3
 console.log(typist("Ghe")) // --> 5
 console.log(typist("Bub")) // --> 5
