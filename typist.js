@@ -24,4 +24,4 @@ function typist(s){
 console.log(typist("fdg")) // --> 3
 console.log(typist("Ghe")) // --> 5
 console.log(typist("Bub")) // --> 5
-1 2 3 4 5 6
+1 2 3 4 5 6 7
