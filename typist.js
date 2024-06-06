@@ -23,3 +23,4 @@ function typist(s){
 
 console.log(typist("fdg")) // --> 3
 console.log(typist("Ghe")) // --> 5
+co
