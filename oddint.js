@@ -8,7 +8,7 @@
 
 function findOdd(int){
 
- if(int % 2 !== 0){
+ if(int % 2 !== 0) {
     return int;
  }
  else {
