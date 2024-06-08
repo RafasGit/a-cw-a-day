@@ -6,4 +6,6 @@
 // We provide the solution code
 // We test out our examples 
 
-function(i)
+function fi(int){
+
+}
