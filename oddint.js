@@ -8,6 +8,6 @@
 
 function findOdd(int){
  if(int % 2 !== 0){
-    ret
+    return
  }
 }
