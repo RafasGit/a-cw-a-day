@@ -12,7 +12,7 @@ function findOdd(int){
     return int
  }
  else {
-    retur
+    return f
  }
 
 }
