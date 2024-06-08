@@ -7,5 +7,5 @@
 // We test out our examples 
 
 function findOdd(int){
- if(int )
+ if(int % 2 !== 0)
 }
