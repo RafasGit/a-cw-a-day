@@ -4,4 +4,4 @@
 // We then give example scenarios of using the solution; eg1(), eg2(), eg3()
 // We then define solution in non-technical terms in pseudocode format
 // We provide the solution code
-// We test out our examples 1 2 3 4 5 6     
+// We test out our examples 1 2 3 4 5 6
