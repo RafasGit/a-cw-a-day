@@ -6,6 +6,6 @@
 // We provide the solution code
 // We test out our examples 
 
-function fi(int){
+function findOdd(int){
 
 }
