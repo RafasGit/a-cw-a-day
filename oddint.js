@@ -9,10 +9,10 @@
 function findOdd(int){
 
  if(int % 2 !== 0){
-    return int
+    return int;
  }
  else {
-    return false
+    return false;
  }
 
 }
