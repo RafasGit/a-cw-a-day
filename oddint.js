@@ -17,5 +17,5 @@ function findOdd(int){
 
 }
 
-console.log(findOdd())
+console.log(findOdd([8, 9, ]))
 console.log()
