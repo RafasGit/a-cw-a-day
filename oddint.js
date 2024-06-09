@@ -17,4 +17,4 @@ function findOdd(int){
 
 }
 
-console.
+console.lo
