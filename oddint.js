@@ -6,9 +6,9 @@
 // We provide the solution code
 // We test out our examples 
 
-function findOdd(int){
+function findOdd(intarray){
 
- if(int % 2 !== 0) {
+ intarray.filterif(int % 2 !== 0) {
     return int;
  }
  else {
