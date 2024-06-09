@@ -18,4 +18,4 @@ function findOdd(int){
 }
 
 console.log()
-console.lo
+console.log()
