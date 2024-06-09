@@ -17,5 +17,5 @@ function findOdd(int){
 
 }
 
-console.log( find)
+console.log( findOd)
 console.log()
