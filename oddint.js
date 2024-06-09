@@ -8,14 +8,16 @@
 
 function findOdd(intarray){
 
- intarray.filterif(int % 2 !== 0) {
-    return int;
+ intarray.filter((int, i) => {
+   if(int % 2 !== 0) {
+    return;
  }
  else {
     return false;
  }
 
 }
+ )
 
 console.log(findOdd([8, 9, ]))
 console.log()
