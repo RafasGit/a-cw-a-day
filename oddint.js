@@ -21,4 +21,4 @@ function findOdd(intarray){
 }
 
 console.log(findOdd([8, 9, 13, 19 ]))
-console.log(findOdd())
+console.log(findOdd([]))
