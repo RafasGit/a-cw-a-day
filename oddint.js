@@ -21,6 +21,6 @@ function findOdd(intarray){
 }
 
 console.log(findOdd([8, 9, 13, 19 ])) // 9, 13, 19
-console.log(findOdd([7, 6, 11, 15])) // 7, 11, 15
+console.log(findOdd([7, 6, 11, 15]))  // 7, 11, 15
 console.log(findOdd([2, 7, 19, 21]))  // 7, 19, 21
 console.log(findOdd[[1, 23, 12, 11]]) //1, 23, 11
