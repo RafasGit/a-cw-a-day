@@ -25,4 +25,4 @@ var uniqueInOrder = function (iterable) {
     console.log(uniqueInOrder('aacde'))  // --> ['a', 'c', 'd', 'e']
     console.log(uniqueInOrder[1,2,2,3]) // --> [1,2,3]  uniqueInOrder('AAAbbbccDDAA')
     console.log(uniqueInOrder('AAAbbbccDDAA')) // --> ['A', 'b', 'c', 'D', 'A']
-    console.log(uniqueInOrder)
+    console.log(uniqueInOrder())
