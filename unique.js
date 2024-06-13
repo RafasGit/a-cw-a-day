@@ -16,4 +16,4 @@ function findUniq(arr) {
 console.log(findUniq([1, 2, 2, 4, 4])) // --> 1
 console.log(findUniq([3, 3, 5, 6, 6])) // --> 5
 console.log(findUniq([7, 7, 9, 10, 10])) // --> 9
-console.log(fi)
+console.log(fin)
