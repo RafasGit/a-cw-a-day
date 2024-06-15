@@ -28,7 +28,7 @@ function tribonacci(signature,n){
   }
 // We test out our examples
 
-console.log(tribonacci([[1,1,1], 10])) // [1,1,1,3,5,9,17,31,]
+console.log(tribonacci([[1,1,1], 10])) // [1,1,1,3,5,9,17,31,57,]
 console.log(tribonacci([[0,1,1], 10])) //
 console.log(tribonacci([[3,2,1], 0])) //
 console.log(tribonacci([[4,7,13], 5]))
