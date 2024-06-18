@@ -4,6 +4,7 @@
 // We then give our example tests eg; pickPeaks([1,1,1,1]) // --> {pos:[],peaks:[]} eg2; pickPeaks([1,2,2,3,2]) // --> {pos:[3], peaks:[3]} eg3; pickPeaks([]) // --> {pos:[] peaks:[]}
 // We give our pseudocode; we will accept our array of inputs, then declare our object that we will return, then loop through our input array to check if any sequence of three numbers, the middle element is greater than or equal to the next and previous element and if greater than is declared a peak 
 // We give our solution code
+
 function pickPeaks(arr)
 {
    const obj = {
