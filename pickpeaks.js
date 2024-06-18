@@ -33,7 +33,7 @@ function pickPeaks(arr)
    }
    return obj;
 }
-//We test out our examples
+//We test out our examples;
 console.log(pickPeaks([1,1,1,1])) // --> {pos:[],peaks:[]}
 console.log(pickPeaks([1,2,2,3,2])) // --> {pos:[3], peaks:[3]}
 console.log(pickPeaks([]))  // --> {pos:[] peaks:[]}
