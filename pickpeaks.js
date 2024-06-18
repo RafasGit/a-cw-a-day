@@ -31,7 +31,7 @@ function pickPeaks(arr)
       }
       i = run ? j : i+1;
    }
-   return obj
+   return obj;
 }
 //We test out our examples
 console.log(pickPeaks([1,1,1,1])) // --> {pos:[],peaks:[]}
