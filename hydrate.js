@@ -11,4 +11,4 @@ function litres(time) {
   console.log(litres(3)) // 1
   console.log(litres(2.2)) // 1
   console.log(litres(0)) // 0 
-  console.log(litres)
+  console.log(litres())
