@@ -13,4 +13,4 @@ function highAndLow(numbers){
  highAndLow('5 4 6 2 -1')  // 5 -1
  highAndLow('5 7 6 2 0')  //  7 0
  highAndLow('9 4 3 2 -1') //  9 -1
- highA
+ highAn
