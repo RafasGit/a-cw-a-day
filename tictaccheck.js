@@ -6,4 +6,4 @@
 // We then give our code solution
 // We then test out our examples
   
-1 2
+1 2 
