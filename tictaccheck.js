@@ -6,8 +6,3 @@
 // We then give our code solution
 // We then test out our examples
   
- <DatePicker
-                value={field.value}
-                onChange={field.onChange}
-                disabled={disabled}
-              /> 
