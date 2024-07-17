@@ -10,8 +10,4 @@
 value={field.value}
 onChange={field.onChange}
 disabled={disabled}
-/>  <DatePicker
-                value={field.value}
-                onChange={field.onChange}
-                disabled={disabled}
-              /> 
+/> 
